@@ -102,3 +102,12 @@ Alipay.pay("signed pay info string"), data => {
 };
 
 ```
+
+
+### Changelog
+
+- 20200906
+    ```
+    upgrade alipay sdk to 15.7.9(2020-07-27)
+    ```
+
